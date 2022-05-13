@@ -1,0 +1,5 @@
+C:\Users\Van\source\repos\timer\bin\Release\netcoreapp3.1\publish\timer.exe
+C:\Users\Van\source\repos\timer\bin\Release\netcoreapp3.1\publish\timer.dll
+C:\Users\Van\source\repos\timer\bin\Release\netcoreapp3.1\publish\timer.deps.json
+C:\Users\Van\source\repos\timer\bin\Release\netcoreapp3.1\publish\timer.runtimeconfig.json
+C:\Users\Van\source\repos\timer\bin\Release\netcoreapp3.1\publish\timer.pdb

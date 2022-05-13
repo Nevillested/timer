@@ -1,0 +1,13 @@
+C:\Users\Van\source\repos\timer\bin\Release\netcoreapp3.1\timer.exe
+C:\Users\Van\source\repos\timer\bin\Release\netcoreapp3.1\timer.deps.json
+C:\Users\Van\source\repos\timer\bin\Release\netcoreapp3.1\timer.runtimeconfig.json
+C:\Users\Van\source\repos\timer\bin\Release\netcoreapp3.1\timer.runtimeconfig.dev.json
+C:\Users\Van\source\repos\timer\bin\Release\netcoreapp3.1\timer.dll
+C:\Users\Van\source\repos\timer\bin\Release\netcoreapp3.1\timer.pdb
+C:\Users\Van\source\repos\timer\obj\Release\netcoreapp3.1\timer.csproj.AssemblyReference.cache
+C:\Users\Van\source\repos\timer\obj\Release\netcoreapp3.1\timer.AssemblyInfoInputs.cache
+C:\Users\Van\source\repos\timer\obj\Release\netcoreapp3.1\timer.AssemblyInfo.cs
+C:\Users\Van\source\repos\timer\obj\Release\netcoreapp3.1\timer.csproj.CoreCompileInputs.cache
+C:\Users\Van\source\repos\timer\obj\Release\netcoreapp3.1\timer.dll
+C:\Users\Van\source\repos\timer\obj\Release\netcoreapp3.1\timer.pdb
+C:\Users\Van\source\repos\timer\obj\Release\netcoreapp3.1\timer.genruntimeconfig.cache
